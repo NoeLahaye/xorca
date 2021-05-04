@@ -4,6 +4,7 @@ scheduler.json
 dask-worker-space
 worker-*/
 *.pyc
+*.*~
 tmp_*.nc
 **/.ipynb_checkpoints/
 notebooks/*.nc
