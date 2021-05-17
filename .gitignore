@@ -13,3 +13,6 @@ notebooks/*.nc
 .coverage
 _example_data
 .pytest_cache
+
+build/
+dist/
